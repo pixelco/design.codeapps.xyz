@@ -1,0 +1,543 @@
+
+/*
+=================================================
+				UP FROM 1200PX
+=================================================
+*/ 
+@media (min-width: 1367px) and (max-width: 1680px) {
+}
+/*
+=================================================
+				UP FROM 1200PX
+=================================================
+*/ 
+@media (min-width: 1200px) and (max-width: 1366px) {
+}
+/*
+=================================================
+			FROM 992PX TO 1199PX
+=================================================
+*/ 
+@media (min-width: 992px) and (max-width: 1199px) {
+	.why-choosus .text {
+	    padding: 5px 40px 5px 20px;
+	}
+	.why-choosus .choosus-list li{
+		display: none;
+		padding: 11px 0px 12px;
+	}
+	.why-choosus .choosus-list li:nth-child(1),
+	.why-choosus .choosus-list li:nth-child(2),
+	.why-choosus .choosus-list li:nth-child(3),
+	.why-choosus .choosus-list li:nth-child(4),
+	.why-choosus .choosus-list li:nth-child(6),
+	.why-choosus .choosus-list li:nth-child(7),
+	.why-choosus .choosus-list li:nth-child(5){
+		display: block;
+	}
+	.banner-caption .title{
+		font-size:50px; 
+	}
+	.banner-description{
+		font-size: 20px;
+	}
+	.intro-caption{
+		padding-top:49px; 
+	}
+	.section-heading-4 .title::before{
+		font-size: 10.5vw;
+	}
+	.intro-section .intro-caption {
+	    padding: 3px 0 0;
+	}
+	.intro-section-4 .intro-heading h3{
+		font-size: 20px;
+	}
+	.intro-section-4 .intro-heading h2{
+		display: none;
+	}
+	.intro-section-4{
+		padding: 0;
+	}
+	.intro-section-4 .intro-heading h3{
+		font-size: 30px;
+	}
+	.intro-section-4 .intro-caption {
+	    padding: 30px 10% 30px 40px;
+	}
+	.intro-section-4 .banner-caption-wrapper {
+	    padding: 0 10% 0 10%;
+	}
+	.intro-caption .text p{
+		height: 80px;
+		overflow: hidden;
+	}
+
+
+	.blog-list-thumb-2 figure,
+	.room-list-thumb figure {
+	    max-width: 280px;
+	}
+	.blog-list-thumb-2 .text,
+	.room-list-thumb .text{
+		padding: 28px 25px;
+	}
+	.blog-list-thumb-2 .title,
+	.room-thumb .title{
+		font-size: 20px;
+		float: left;
+		width: 100%;
+		overflow: hidden;
+		white-space: nowrap;
+		text-overflow: ellipsis;
+	}
+	.blog-list-thumb-2 .text p,
+	.room-list-thumb .text p{
+		float: left;
+		width: 100%;
+		max-height: 55px;
+		overflow: hidden;
+	}
+	.blog-thumb-2 .blog-meta li:last-child{
+		display: none;
+	}
+	.blog-thumb-2 .text p{
+		float: left;
+		width: 100%;
+		max-height: 50px;
+		overflow: hidden;
+	}
+	.services-full-thumb .text {
+	    padding: 31px 40px;
+	}
+	.services-full-thumb .title{
+		font-size: 30px;
+		margin-bottom: 15px;
+	}
+	.search-bar > div{
+		padding: 10px;
+	}
+	.search-bar [class*="btn-"]{
+		padding: 25px 15px
+	}
+	.search-bar > div:first-child{
+		padding-left: 10px;
+	}
+	.event-heading h4{
+		font-size: 30px;
+	}
+	.event-heading h3{
+		font-size: 50px;
+	}
+	.md-bar h4{
+		font-size: 54px;
+	}
+	.md-bar h6{
+		font-size: 30px;
+	}
+	.newsletter .text{
+		padding: 80px 0px
+	}
+	.sub-banner{
+		padding: 190px 0px 84px
+	}
+	.sidebar .widget{
+		padding: 20px;
+	}
+	.event-thumb-list figure{
+		max-width: 100%;
+	}
+	.countdown span{
+		font-size: 30px;
+	}
+	.countdown p{
+		font-size: 14px;
+	}
+	.upcoming-event .countdown li{
+		float: left;
+		width: 20%;
+		margin: 0 10px -5px;
+	}
+	.map-wrap{
+		min-height: 500px;
+	}
+}
+/*
+=================================================
+			FROM 0PX TO 979PX
+=================================================
+*/ 
+@media (max-width: 991px) {
+	.navigation{
+		display: none;
+	}
+	.search-bar > div{
+		padding: 10px;
+	}
+	.search-bar [class*="btn-"]{
+		padding: 25px 15px
+	}
+	.map-wrap{
+		min-height: 400px;
+	}
+	.countdown p{
+		font-size: 14px;
+	}
+	.countdown span{
+		font-size: 30px;
+	}
+	.event-thumb-list figure{
+		max-width: 100%;
+	}
+	.sub-banner{
+		padding: 190px 0px 84px
+	}
+	.sidebar .widget{
+		padding: 20px;
+	}
+	.dl-menuwrapper {
+	    display: block;
+	    margin: 11px 0 0 15px;
+	}
+	.banner-caption .title{
+		font-size:50px; 
+	}
+	.banner-description{
+		font-size: 20px;
+	}
+	.header-4 {
+	    padding: 20px 0;
+	}
+	.search-bar [class*="btn-"]{
+		padding-left:15px; 
+		padding-right:15px; 
+	}
+	.intro-section-3 .intro-thumb {
+	    padding: 0 50px 150px 0;
+
+	}
+	.intro-section-3 .intro-thumb img {
+	    max-width: 255px;
+	}
+	.intro-caption{
+		padding:22px 0 0; 
+	}
+	.intro-heading h3{
+		font-size: 50px;
+	}
+	.section-heading-4 .title::before{
+		font-size: 11.5vw;
+	}
+	.intro-section-4 .intro-caption {
+	    padding: 30px 30px;
+	    margin-bottom: 0;
+	    text-align: center;
+	}
+	.blog-thumb .text .title{
+		float: left;
+		width: 100%;
+		overflow: hidden;
+		white-space: nowrap;
+		text-overflow: ellipsis;
+	}
+	.services-full-thumb .text {
+	    padding: 30px 40px;
+	}
+	.event-heading-outer{
+		padding: 0;
+	}
+	.event-heading-outer{
+		margin-bottom: 40px;
+	}
+	.md-bar h4 {
+	    font-size: 46px;
+	}
+	.section-heading-4 p {
+	    padding: 0 10%;
+	}
+	.intro-section .intro-caption{
+		padding: 30px 0px 0px 0px;
+	}
+	.services-full-thumb{
+		margin-bottom: 30px;
+	}
+	.md-bar h6{
+		font-size: 30px;
+	}
+	.sm-none{
+		display: none;
+	}
+	.newsletter .text{
+		padding: 70px 0px;
+	}
+}
+
+/*
+=================================================
+			FROM 768PX TO 979PX
+=================================================
+*/
+
+@media (min-width: 768px) and (max-width: 979px) {
+	
+  
+}
+/*
+=================================================
+			FROM 0PX TO 767PX
+=================================================
+*/
+@media (max-width: 767px) {
+	.header-4{
+		position: static;
+	}
+	.section-heading-4 p {
+	    padding: 0;
+	}
+	.hotel-branches{
+		margin-bottom: 30px;
+	}
+	.intro-section-4 .banner-caption-wrapper {
+	    top: 50%;
+	    padding: 0 50px 0 15px;
+	}
+	.intro-section-4 .intro-heading h3 {
+	    font-size: 40px;
+	}
+	.blog-list-thumb-2 figure,
+	.room-list-thumb figure {
+	    width: 100%;
+	    max-width: 100%;
+	}
+	.blog-list-thumb-2 .text,
+	.room-list-thumb .text{
+		float: left;
+		width: 100%;
+		padding: 28px 25px;
+	}
+	.blog-list-thumb-2 .title,
+	.room-thumb .title{
+		font-size: 20px;
+		float: left;
+		width: 100%;
+		overflow: hidden;
+		white-space: nowrap;
+		text-overflow: ellipsis;
+	}
+	.blog-list-thumb-2 .text p,
+	.room-list-thumb .text p{
+		float: left;
+		width: 100%;
+		max-height: 55px;
+		overflow: hidden;
+	}
+	.event-list-thumb .event-date{
+		width: 115px;
+	}
+	.md-bar{
+		padding:64px 0px 57px
+	}
+
+	.md-bar h4, .md-bar h6{
+		font-size: 30px;
+	}
+	.md-bar h4 {
+	    font-size: 35px;
+	}
+	.banner-caption-wrapper{
+		position: static;
+		float: left;
+		width: 100%;
+		transform: none;
+		-moz-transform: none;
+		-webkit-transform: none;
+		margin-top: -150px; 
+	}
+	.search-bar{
+		padding: 20px;
+		float: left;
+		width: 100%;
+	}
+	.search-bar > div{
+		float: left;
+		width: 100%;
+		display: inherit;
+		padding: 0px;
+		padding-bottom: 10px;
+	}
+	.search-bar > div:first-child, 
+	.search-bar > div:last-child{
+		padding-left: 0;
+	}
+	.search-bar .input-group{
+		border: solid 1px #ccc
+	}
+	.event-heading h3{
+		font-size: 50px;
+	}
+	.event-heading h4{
+		font-size: 20px;
+	}
+	.services-full-thumb [class*="col-md"]:first-child .text{
+		text-align: left;
+	}
+	.sub-banner{
+		padding: 70px 0px 50px 0px;
+	}
+	.sub-banner h2{
+		font-size: 30px;
+	}
+	.upcoming-event .countdown li{
+		width: 20%;
+		margin: 0 8px -5px;
+	}
+	.room-services .col-md-4{
+		width: 40%;
+
+	}
+	.room-services .col-md-8{
+		width: 60%;
+
+	}
+	.sticky-header .logo #img-white{
+		display: none;
+	}
+	.sticky-header .logo #img-black{
+		display: block;
+	}
+}
+/*
+=================================================
+			FROM 0PX TO 0PX
+=================================================
+*/
+@media (min-width: 481px) and (max-width: 694px) {
+
+}
+/*
+=================================================
+			FROM 0PX TO 0PX
+=================================================
+*/
+@media (max-width: 480px) {
+	section,
+	.section{
+		padding: 50px 0 20px;
+	}
+	.header-4{
+		background-color: #000;
+	}
+	.top-booking-btn{
+		display: none;
+	}
+	.intro-caption{
+		text-align: center;
+	}
+	.intro-heading h3 {
+	    font-size: 40px;
+	}
+	.section-heading-4{
+		text-align: center;
+	}
+	.intro-section .intro-caption{
+		padding-bottom:0; 
+	}
+	.port-item{
+		float: left;
+		width: 100%;
+	}
+	.room-thumb .text{
+		padding-left:30px; 
+		padding-right:30px; 
+	}
+	.intro-section-4 .banner-caption-wrapper .title {
+	    font-size: 25px;
+	}
+	.intro-section-4 .intro-heading h3, .intro-section-4 .intro-heading h2 {
+	    font-size: 25px;
+	}
+	.intro-section-4 .intro-heading h3{
+	    letter-spacing: 2px;
+	}
+	.intro-section-4 .intro-caption{
+		padding-left:15px; 
+		padding-right:15px; 
+	}
+	.blog-thumb .text{
+		padding-left:20px; 
+		padding-right:20px; 
+	}
+	.event-heading h4, .event-heading h3{
+		font-size: 50px;
+	}
+	.event-heading h4 {
+	    font-size: 30px;
+	}
+	.event-list-thumb{
+		display: block;
+		width: 100%;
+		float: left;
+	}
+	.event-list-thumb .event-date{
+		width: 100%;
+		float: left;
+		padding: 5px 0px 14px;
+		display: block !important;
+		border-width: 0 0 1px 0;
+	}
+	.event-list-thumb .title {
+		font-size: 25px;
+	}
+	.event-list-thumb .overflow-text {
+	    padding: 20px 20px;
+	}
+	.services-full-thumb .text {
+	    padding: 30px 30px;
+	}
+	.services-full-thumb .title {
+	    font-size: 26px;
+	}
+	.md-bar h4, .md-bar h6 {
+	    font-size: 25px;
+	}
+	.md-bar h4 {
+	    font-size: 25px;
+	}
+	.section-heading-4 .title{
+		font-size: 25px;
+	}
+	.testimonial-thumb-2{
+		text-align: center;
+	}
+	.testimonial-thumb-2 figure{
+		float: none;
+		display: block;
+		margin: 0 auto 25px;
+	}
+	.testimonial-thumb-2 .title,
+	.testimonial-thumb-2 .designation{
+		width: 100%;
+		float: left;
+		margin: 0; 
+	}
+	.testimonial-thumb-2 .title{
+		margin-bottom: 10px;
+	}
+	.heading-div{
+		margin-bottom: 20px;
+	}
+	.slick-list{
+		margin:0 !important; 
+	}
+	.footer-logo{
+		padding: 30px 0 22px;
+	}
+}
+@media (max-width: 382px) {
+	
+}
+
+
+
+
+

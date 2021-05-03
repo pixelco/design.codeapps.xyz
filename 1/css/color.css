@@ -1,0 +1,275 @@
+/*
+      ============================================================
+           Default Color Start
+      ============================================================
+*/
+.th-cl,
+.title:hover a,
+.popup-icon,
+.svg-icon svg,
+.svg-icon span,
+.we-are-thumb .svg-icon,
+.btn-icon:hover,
+.we-are-thumb-3 .simple-btn,
+.testimonial-thumb .designation,
+.widget_nav_menu ul li a:hover,
+.copy-right p a,
+footer .contact-list li:hover i, 
+.team-thumb-2:hover .title a,
+.team-thumb-1:hover .title a,
+.news-thumb:hover .title a,
+.we-are-thumb:hover .title a,
+.testimonial-thumb .title:hover a,
+
+
+
+
+
+
+
+
+
+
+
+.error404 h2,
+.event-heading h3,
+.blog-meta a:hover,
+.form-control:focus,
+.form-control-2:focus,
+.blog-thumb:hover .title a,
+.gallery-thumb:hover .title a,
+.event-list-thumb .event-date strong,
+.comments li .comment-header a:hover,
+.comment-holder:hover .comment-header h4
+{
+  color: #74A608
+}
+/*
+      ============================================================
+           Default Background Color Start
+      ============================================================
+*/
+.th-bg,
+.dotstyle-puff li button::after,
+input[type="submit"].btn:hover,
+.social-box:hover,
+.tags a:hover,
+.navigation li:hover > a,
+.navigation li.active > a,
+.mst-pagination .page-numbers.current,
+.mst-pagination .page-numbers:hover,
+.btn:hover, 
+.dl-menuwrapper,
+/* .project-thumb,
+.project-thumb-2,
+.strategy-list li:hover::before,
+.widget-newsletter .input-field .search-icon,
+.price-table:hover,
+.section-heading span::before,
+.section-heading span::after,
+.btn::after,
+.news-thumb:hover figure .date-tag, 
+.header-2  .navigation ul li:hover > a, 
+.asked-questiond .simple-accordian .accordion-1:hover, 
+.asked-questiond .simple-accordian .accordion-1.accordion-open, 
+.sidebar .widget-title::before, 
+.social-box .social-list.long li a:hover, 
+.review-tabs .nav-tabs>li.active>a, 
+.enter-email button,
+.woo-product:hover .product-img a, */
+.room-thumb figure,
+.social-list li a:hover,
+.btn-3:hover,
+.blog-thumb figure,
+.event-thumb::before,
+.event-thumb figure::before,
+.gallery-thumb figure,
+.sidebar .widget::before,
+.search-bar [class*="btn-"],
+.search-bar .input-group-addon,
+.event-heading::after,
+.team-thumb:hover figure,
+.arrows1 .slick-arrow:hover,
+.dot-1 .slick-dots li.slick-active button,
+.hotel-branches figure
+{
+    background-color: #74A608
+}
+/*
+      ============================================================
+           Default Border Color Start
+      ============================================================
+*/
+.th-bdr,
+blockquote,
+.arrows1 .slick-arrow:hover,
+.dotstyle-puff li button,
+.dotstyle-puff li button:hover,
+.dotstyle-puff li button:focus,
+.dotstyle-puff li.slick-active button,
+.btn-2:hover,
+.btn-3:hover,
+.btn:hover,
+.btn::after,
+.blog-thumb::before,
+.blog-thumb::after,
+.tags a:hover,
+.form-control:focus,
+.form-control-2:focus,
+.strategy-list li::before,
+.price-table:hover .price-div::before,
+.price-table:hover .price-div::after, 
+.contact-form input[type="submit"].btn:hover, 
+.reply-form input.btn:hover, 
+input[type="submit"].btn:hover, .btn:hover, 
+.enter-email button
+{
+    border-color: #74A608
+}
+
+
+.dotstyle-puff li button::after{
+  box-shadow: #74A608;
+}
+/*
+      ============================================================
+           Default Transition Start
+      ============================================================
+*/
+a,
+label,
+h1 a,
+h2 a,
+h3 a,
+h4 a,
+h5 a,
+h6 a,
+input,
+.btn,
+.blog,
+figure,
+.title,
+.tags a,
+.title a,
+textarea,
+.arrows1 .slick-arrow,
+.arrows1 .slick-arrow::before,
+.navigation a,
+.hotel-branches,
+.hotel-branches *,
+.hotel-branches .absolute,
+.pop-icon,
+.gallery-thumb,
+.gallery-thumb *,
+.event-thumb *,
+.blog-thumb *,
+.event-thumb figure::before,
+.room-thumb *,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.btn,
+.main-banner,
+.navigation ul,
+.we-are-thumb,
+.social-box::before,
+.social-box,
+.team-thumb-2,
+.blog-meta a,
+.contact-list li a,
+.contact-list li i,
+.comment-header h4, 
+.comment-header a,
+.woo-product,.product-img,.product-img a,
+.asked-questiond .simple-accordian .accordion-1, 
+.we-are-thumb-3,
+.woo-product {
+    transition: all .3s ease-in-out;
+    -webkit-transition: all .3s ease-in-out;
+}
+
+
+.tags a,
+.popup-icon,
+.blog-thumb,
+.price-table,
+.team-thumb-1,
+.blog-thumb *,
+.news-thumb *,
+.price-table *,
+.team-thumb-1 *,
+.strategy-list li,
+.price-div::after,
+.project-thumb img,
+.price-div::before,
+.accordion-1::before,
+.project-thumb .text,
+.project-thumb-2 img,
+.project-thumb-2 .text,
+.social-box .social-list,
+.project-thumb-2 .text *,
+.strategy-list li::before,
+.social-box .social-list li,
+.news-thumb, 
+.team-thumb, 
+.room-thumb, 
+.sidebar .widget{
+    transition: all .6s cubic-bezier(.73,-0.12,.22,1.79);
+    -moz-transition: all .6s cubic-bezier(.73,-0.12,.22,1.79);
+    -webkit-transition: all .6s cubic-bezier(.73,-0.12,.22,1.79);
+}
+/*
+      ============================================================
+           Second Background Color Start
+      ============================================================
+*/
+.room-thumb,
+.blog-thumb,
+.intro-section-4,
+.gray-bg{
+    background-color:#f7f7f7/* #ebebea */;
+}
+
+.tags a,
+.team-thumb-2,
+.news-thumb .blog-meta,
+.intro-thumb{
+  border-color:#edf1f2/* #ebebea */;
+}
+/*
+      ============================================================
+           Social Icons Background Color Start
+      ============================================================
+*/
+.google-bg{
+	color: #fff !important;
+	border: none !important;
+	background-color: #f0042a;
+}
+.twitter-bg{
+	color: #fff !important;
+	border: none !important;
+	background-color: #55acee;	
+}
+.linkedin-bg{
+	color: #fff !important;
+	border: none !important;
+	background-color: #00598e;	
+}
+.facebook-bg{
+	color: #fff !important;
+	border: none !important;
+	background-color: #3b5998;	
+}
